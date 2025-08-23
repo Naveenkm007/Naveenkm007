@@ -19,7 +19,7 @@
 
 <!-- Profile Views Badge -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Visitors&color=brightgreen&style=flat&logo=github" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=naveenkm007&label=Visitors&color=brightgreen&style=flat&logo=github" alt="Profile Views" /> 
 </p>
 
 <!-- Developer Quote -->
@@ -29,7 +29,7 @@
 
 <!-- 🐍 Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+  <img src="https://raw.githubusercontent.com/naveenkm007/naveenkm007/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
 
 ---
@@ -63,8 +63,8 @@
 
 # 📂 Featured Projects
 
-- [Student-Portal-Automation](https://github.com/naveenkm07/student-portal-automation): Automates student tasks using Python and MySQL
-- [Image-Processing-Projects](https://github.com/naveenkm07/image-processing): OpenCV mini-projects and demos
+- [Student-Portal-Automation](https://github.com/naveenkm007/student-portal-automation): Automates student tasks using Python and MySQL
+- [Image-Processing-Projects](https://github.com/naveenkm007/image-processing): OpenCV mini-projects and demos
 
 ---
 
@@ -117,25 +117,25 @@
 # 📚 Blogs & Articles
 
 - [My Journey with Python](https://medium.com/@kmnaveenkm01/my-journey-with-python-1a2b3c)
-- [Top Resources for CSE Students](https://dev.to/naveenkm07/top-cse-resources)
+- [Top Resources for CSE Students](https://dev.to/naveenkm007/top-cse-resources)
 
 ---
 
 # 📝 Gists & Cheat Sheets
 
-- [Python Interview Cheatsheet](https://gist.github.com/naveenkm07/python-interview-cheatsheet)
-- [Data Structures Notes](https://gist.github.com/naveenkm07/data-structures-notes)
+- [Python Interview Cheatsheet](https://gist.github.com/naveenkm007/python-interview-cheatsheet)
+- [Data Structures Notes](https://gist.github.com/naveenkm007/data-structures-notes)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm007&show_icons=true&locale=en&theme=radical" alt="Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm007&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm007&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
@@ -143,7 +143,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveenkm07&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naveenkm007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
